@@ -1,8 +1,6 @@
 
 
-[![Years Badge](https://badges.pufler.dev/years/voxain?style=for-the-badge)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/repos/voxain?style=for-the-badge)](https://badges.pufler.dev)
-
+[![Contributors Display](https://badges.pufler.dev/contributors/puf17640/git-badges?size=50&padding=5&bots=true)]
 
 # TheReal #
 
