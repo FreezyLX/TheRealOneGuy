@@ -1,5 +1,8 @@
 
 
+[![Years Badge](https://badges.pufler.dev/years/voxain?style=for-the-badge)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/repos/voxain?style=for-the-badge)](https://badges.pufler.dev)
+
 
 # TheReal #
 
