@@ -1,6 +1,6 @@
 
 
-[![Contributors Display](https://badges.pufler.dev/contributors/puf17640/git-badges?size=50&padding=5&bots=true)]
+
 
 # TheReal #
 
