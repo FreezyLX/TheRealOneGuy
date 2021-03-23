@@ -8,7 +8,7 @@
 
 I'm a coder.
 
-I code in Python , C++ , C# and JavaScript.
+I code in Python ,JavaScript.
 
 #  #
 
