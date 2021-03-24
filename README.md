@@ -16,7 +16,7 @@ I'm programming "Email Checker" "Tools" "Websites".
 
 # #
 
-[![Visits Badge](https://badges.pufler.dev/visits/TheRealOneGuy/git-badges)](https://badges.pufler.dev)
+
 
 
 
