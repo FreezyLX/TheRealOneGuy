@@ -1,4 +1,5 @@
 
+
 # TheReal #
 
 [My website](https://therealoneguy.cf)
@@ -10,7 +11,7 @@ I code in Python and Javascript.
 
 # #
 
-https://cdn.discordapp.com/attachments/781869694851481621/824374382654652468/original.gif
+![original](https://cdn.discordapp.com/attachments/781869694851481621/824374382654652468/original.gif)
 
 #  #
 
