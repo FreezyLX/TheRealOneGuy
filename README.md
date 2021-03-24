@@ -1,4 +1,3 @@
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/81118920/112376765-20c34680-8ce5-11eb-86be-5f166afef8bc.gif)
 
 # TheReal #
 
@@ -7,6 +6,11 @@
 I'm a coder.
 
 I code in Python and Javascript.
+
+
+# #
+
+https://cdn.discordapp.com/attachments/781869694851481621/824374382654652468/original.gif
 
 #  #
 
