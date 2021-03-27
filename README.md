@@ -6,8 +6,6 @@
 
 I'm a coder.
 
-I code in Python and Javascript.
-
 
 # #
 
